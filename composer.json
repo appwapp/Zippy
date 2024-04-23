@@ -1,5 +1,6 @@
 {
-    "name": "alchemy/zippy",
+    "name": "appwapp/zippy",
+    "version": "1.0.1",
     "type": "library",
     "description": "Zippy, the archive manager companion",
     "keywords": ["zip", "tar", "bzip", "compression"],
